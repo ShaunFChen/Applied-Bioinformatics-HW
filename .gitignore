@@ -3,4 +3,5 @@ Unit2-RNAseq/SRR5454079.fastq
 Unit2-RNAseq/SRR5454079.sam
 Unit2-RNAseq/SRR5454079.sorted.bam
 Unit2-RNAseq/SRR5454079_1.fastq
-Unit2_RNAseq/grch38/*.ht2
+Unit2-RNAseq/grch38/*.ht2
+Unit2-RNAseq/Homo_sapiens.GRCh38.94.gtf
