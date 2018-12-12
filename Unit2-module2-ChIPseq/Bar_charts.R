@@ -17,7 +17,6 @@ genes$Gene <- NULL
 dimnames(genes)[2] <- list(c(rep("Hom", 7), rep("Syn", 7)))
 head(genes)
 
-
 genes <- as.matrix(genes)
 ygenes <- melt(genes)
 # ygenes$value <- as.numeric(levels(ygenes$value))[ygenes$value]
