@@ -1,0 +1,5 @@
+EFF_H3K4Me1_1_srt_dupr_chr11
+
+EFF_H3K4Me1_2_srt_dupr_chr11
+
+EFF_Input_srt_dupr_chr11
